@@ -31,7 +31,9 @@ How to Use
 Clone the repository:
 git clone https://github.com/your-username/global-cancer-dashboard.git
 Open the .pbix file in Power BI Desktop.
-### Dashboard
+### Live Dashboard Link
+https://app.powerbi.com/view?r=eyJrIjoiZWYwYmRjODgtZDA3YS00ZGUxLWI4ZDgtNjRjOGE1NDkxYjkxIiwidCI6IjYyZTQwMTQ3LTIzNTEtNDliYy04OWNmLWVmOThjZjA3ZDE1MiJ9
+
 ![Screenshot 2025-04-29 225733](https://github.com/user-attachments/assets/bf77e24f-b954-4cc2-b5b7-8624ac8b98b8)
 Interact with the slicers and visuals to explore the data.
 
