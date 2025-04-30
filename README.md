@@ -41,8 +41,6 @@ Avg Treatment Cost:
 Avg Treatment Cost = AVERAGE('TableName'[Treatment_Cost_USD])
 Patient Count:
 Patient Count = DISTINCTCOUNT('TableName'[Patient_ID])
-### Dashboard
-![Screenshot 2025-04-29 225733](https://github.com/user-attachments/assets/bf77e24f-b954-4cc2-b5b7-8624ac8b98b8)
 
 *Acknowledgments
 Special thanks to the creators and maintainers of the dataset for making this analysis possible.
